@@ -1,0 +1,5 @@
+C:\Users\MrWhite\Desktop\ProjectTCP\TCPWhite\TCPWhite\bin\Debug\TCPWhite.dll
+C:\Users\MrWhite\Desktop\ProjectTCP\TCPWhite\TCPWhite\bin\Debug\TCPWhite.pdb
+C:\Users\MrWhite\Desktop\ProjectTCP\TCPWhite\TCPWhite\obj\Debug\TCPWhite.dll
+C:\Users\MrWhite\Desktop\ProjectTCP\TCPWhite\TCPWhite\obj\Debug\TCPWhite.pdb
+C:\Users\MrWhite\Desktop\ProjectTCP\TCPWhite\TCPWhite\obj\Debug\TCPWhite.csprojResolveAssemblyReference.cache

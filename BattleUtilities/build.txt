@@ -1,0 +1,3 @@
+displayName = Battle Utilities
+author = MrWhite
+version = 0.1

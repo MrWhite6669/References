@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskKiller", "TaskKiller.csproj", "{F11AAB03-76C0-40A2-973A-2CA44EFFEF98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11AAB03-76C0-40A2-973A-2CA44EFFEF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11AAB03-76C0-40A2-973A-2CA44EFFEF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11AAB03-76C0-40A2-973A-2CA44EFFEF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11AAB03-76C0-40A2-973A-2CA44EFFEF98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F2FC40E-C564-4B1A-A278-7039365E126E}
+	EndGlobalSection
+EndGlobal

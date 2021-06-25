@@ -1,0 +1,3277 @@
+
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (12) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (6) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (14) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (11) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 4 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 5 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+[Highlighters]Highlighter 1 on set 5 is free to move.
+[Highlighters]Highlighter 2 on set 5 is free to move.
+[Highlighters]Highlighter 3 on set 5 is free to move.
+[Highlighters]Highlighter 4 on set 5 is free to move.
+[Highlighters]Highlighter 5 on set 5 is free to move.
+[Highlighters]Highlighter 6 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 6 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 7 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (10) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (4) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (4) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (4) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 4 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (8) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 4 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 5 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+[Highlighters]Highlighter 1 on set 5 is free to move.
+[Highlighters]Highlighter 2 on set 5 is free to move.
+[Highlighters]Highlighter 3 on set 5 is free to move.
+[Highlighters]Highlighter 4 on set 5 is free to move.
+[Highlighters]Highlighter 5 on set 5 is free to move.
+[Highlighters]Highlighter 6 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 6 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 7 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (9) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (9) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (9) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 4 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (7) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (5) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (15) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (13) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (12) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (6) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (14) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (11) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 4 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 5 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+[Highlighters]Highlighter 1 on set 5 is free to move.
+[Highlighters]Highlighter 2 on set 5 is free to move.
+[Highlighters]Highlighter 3 on set 5 is free to move.
+[Highlighters]Highlighter 4 on set 5 is free to move.
+[Highlighters]Highlighter 5 on set 5 is free to move.
+[Highlighters]Highlighter 6 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 6 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 7 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (10) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (4) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (4) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (4) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 4 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (8) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 4 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 5 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+[Highlighters]Highlighter 1 on set 5 is free to move.
+[Highlighters]Highlighter 2 on set 5 is free to move.
+[Highlighters]Highlighter 3 on set 5 is free to move.
+[Highlighters]Highlighter 4 on set 5 is free to move.
+[Highlighters]Highlighter 5 on set 5 is free to move.
+[Highlighters]Highlighter 6 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 6 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 7 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (9) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 in set 0 moved its max moves.(1/1)
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (9) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (9) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 4 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (7) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (5) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (15) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (13) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+Pawn (4)|Black,e7
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (12) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (6) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (14) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (11) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+[Highlighters]Highlighter 2 on set 0 is free to move.
+[Highlighters]Highlighter 3 on set 0 is free to move.
+[Highlighters]Highlighter 4 on set 0 is free to move.
+[Highlighters]Highlighter 5 on set 0 is free to move.
+[Highlighters]Highlighter 6 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 4 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 5 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+[Highlighters]Highlighter 1 on set 5 is free to move.
+[Highlighters]Highlighter 2 on set 5 is free to move.
+[Highlighters]Highlighter 3 on set 5 is free to move.
+[Highlighters]Highlighter 4 on set 5 is free to move.
+[Highlighters]Highlighter 5 on set 5 is free to move.
+[Highlighters]Highlighter 6 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 6 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 7 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (10) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (4) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 in set 0 moved its max moves.(1/1)
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (4) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (4) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 4 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (8) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 4 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 5 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+[Highlighters]Highlighter 1 on set 5 is free to move.
+[Highlighters]Highlighter 2 on set 5 is free to move.
+[Highlighters]Highlighter 3 on set 5 is free to move.
+[Highlighters]Highlighter 4 on set 5 is free to move.
+[Highlighters]Highlighter 5 on set 5 is free to move.
+[Highlighters]Highlighter 6 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 6 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 7 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (9) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 in set 0 moved its max moves.(1/1)
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (9) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (9) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 4 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (7) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (5) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (15) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (13) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (12) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (6) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (14) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (11) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+[Highlighters]Highlighter 2 on set 0 is free to move.
+[Highlighters]Highlighter 3 on set 0 is free to move.
+[Highlighters]Highlighter 4 on set 0 is free to move.
+[Highlighters]Highlighter 5 on set 0 is free to move.
+[Highlighters]Highlighter 6 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+[Highlighters]Highlighter 1 on set 4 is free to move.
+[Highlighters]Highlighter 2 in set 4 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 5 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+[Highlighters]Highlighter 1 in set 5 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 6 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+[Highlighters]Highlighter 1 in set 6 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 7 on Queen (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+[Highlighters]Highlighter 1 on set 7 is free to move.
+[Highlighters]Highlighter 2 on set 7 is free to move.
+[Highlighters]Highlighter 3 on set 7 is free to move.
+[Highlighters]Highlighter 4 on set 7 is free to move.
+[Highlighters]Highlighter 5 on set 7 is free to move.
+[Highlighters]Highlighter 6 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (10) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (2) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (4) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 in set 0 moved its max moves.(1/1)
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (4) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (4) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+[Highlighters]Highlighter 2 on set 0 is free to move.
+[Highlighters]Highlighter 3 on set 0 is free to move.
+[Highlighters]Highlighter 4 on set 0 is free to move.
+[Highlighters]Highlighter 5 on set 0 is free to move.
+[Highlighters]Highlighter 6 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 4 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on King 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (8) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 7 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (3) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 4 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+[Highlighters]Highlighter 1 on set 4 is free to move.
+[Highlighters]Highlighter 2 in set 4 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 5 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+[Highlighters]Highlighter 1 on set 5 is free to move.
+[Highlighters]Highlighter 2 on set 5 is free to move.
+[Highlighters]Highlighter 3 on set 5 is free to move.
+[Highlighters]Highlighter 4 on set 5 is free to move.
+[Highlighters]Highlighter 5 on set 5 is free to move.
+[Highlighters]Highlighter 6 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 6 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 7 on Queen 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (9) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 in set 0 moved its max moves.(1/1)
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (9) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (9) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 1 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 2 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 2 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 3 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 4 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 4 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 5 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 5 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 6 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 6 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 7 on King (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 7 is occupied by enemy.
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 1 is free to move.
+[Highlighters]Highlighter 1 on set 1 is free to move.
+[Highlighters]Highlighter 2 on set 1 is free to move.
+[Highlighters]Highlighter 3 on set 1 is free to move.
+[Highlighters]Highlighter 4 on set 1 is free to move.
+[Highlighters]Highlighter 5 on set 1 is free to move.
+[Highlighters]Highlighter 6 on set 1 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 3 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (7) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (5) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (15) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (13) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 0 is free to move.
+[Highlighters]Highlighter 1 on set 0 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 0 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 in set 1 is occupied.
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 2 is free to move.
+[Highlighters]Highlighter 1 on set 2 is free to move.
+[Highlighters]Highlighter 2 on set 2 is free to move.
+[Highlighters]Highlighter 3 on set 2 is free to move.
+[Highlighters]Highlighter 4 on set 2 is free to move.
+[Highlighters]Highlighter 5 on set 2 is free to move.
+[Highlighters]Highlighter 6 on set 2 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (1) 
+----------------------------------------
+[Highlighters]Highlighter 0 on set 3 is free to move.
+[Highlighters]Highlighter 1 on set 3 is free to move.
+[Highlighters]Highlighter 2 on set 3 is free to move.
+[Highlighters]Highlighter 3 on set 3 is free to move.
+[Highlighters]Highlighter 4 on set 3 is free to move.
+[Highlighters]Highlighter 5 on set 3 is free to move.
+[Highlighters]Highlighter 6 on set 3 is free to move.
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (12) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (6) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (14) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (11) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Queen (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Queen (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Queen (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Queen (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 4 on Queen (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 5 on Queen (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 6 on Queen (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 7 on Queen (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (10) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (2) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (4) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (4) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (4) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on King 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on King 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on King 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on King 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 4 on King 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 5 on King 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 6 on King 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 7 on King 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (8) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Knight (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Knight (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Knight (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Knight (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 4 on Knight (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 5 on Knight (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 6 on Knight (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 7 on Knight (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook (3) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Queen 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Queen 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Queen 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Queen 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 4 on Queen 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 5 on Queen 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 6 on Queen 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 7 on Queen 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (9) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (9) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (9) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on King (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on King (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on King (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on King (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 4 on King (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 5 on King (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 6 on King (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 7 on King (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Rook 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Rook 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Rook 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Rook 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (7) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (5) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (15) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn (13) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Pawn 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 0 on Bishop (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 1 on Bishop (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 2 on Bishop (1) 
+----------------------------------------
+----------------------------------------
+ [Highlighters]Checking set 3 on Bishop (1) 
+----------------------------------------
+Pawn (5)|Black,f7
+Pawn (6)|Black,g7
+Pawn (5)|Black,f7
+Pawn (5)|Black,f7
+Pawn (3)|Black,d7
+Pawn (2)|Black,c7
+Pawn|Black,b7
+Pawn (1)|Black,a7
+Pawn (1)|Black,a7
+Pawn (1)|Black,a7
+Pawn|Black,b7
+Pawn (2)|Black,c7
+Pawn (3)|Black,d7
+Pawn (3)|Black,d7
+Pawn (3)|Black,d7
+Pawn (3)|Black,d7
+Pawn (3)|Black,d7
+Pawn (3)|Black,d7
+Pawn (3)|Black,d7
+Pawn (6)|Black,g7
+Pawn (7)|Black,h7
+Knight|Black,g8
+Knight|Black,g8
+Knight|Black,g8
+Knight|Black,g8
+Knight|Black,g8
+Knight|Black,g8
+Knight|Black,g8
+Bishop|Black,f8
+King|Black,d8
+Pawn (3)|Black,d7
+Pawn (6)|Black,g7
+Pawn (1)|Black,a7
+Rook (1)|Black,a8
+Bishop (1)|Black,c8
+Knight (1)|Black,b8
+Rook (1)|Black,a8
+Pawn (7)|Black,h7
+Rook|Black,h8
+Rook|Black,h8
+Rook|Black,h8
+Rook|Black,h8
+Rook|Black,h8
+Rook|Black,h8
+Rook|Black,h8
+Knight|Black,g8
+Pawn (6)|Black,g7
+Pawn (7)|Black,h7
+Rook|Black,h8

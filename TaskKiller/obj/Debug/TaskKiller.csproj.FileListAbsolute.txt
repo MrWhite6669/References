@@ -1,0 +1,11 @@
+C:\Users\loneb\source\repos\TaskKiller\bin\Debug\TaskKiller.exe.config
+C:\Users\loneb\source\repos\TaskKiller\bin\Debug\TaskKiller.exe
+C:\Users\loneb\source\repos\TaskKiller\bin\Debug\TaskKiller.pdb
+C:\Users\loneb\source\repos\TaskKiller\obj\Debug\TaskKiller.csprojAssemblyReference.cache
+C:\Users\loneb\source\repos\TaskKiller\obj\Debug\TaskKiller.MainForm.resources
+C:\Users\loneb\source\repos\TaskKiller\obj\Debug\TaskKiller.addForm.resources
+C:\Users\loneb\source\repos\TaskKiller\obj\Debug\TaskKiller.Properties.Resources.resources
+C:\Users\loneb\source\repos\TaskKiller\obj\Debug\TaskKiller.csproj.GenerateResource.cache
+C:\Users\loneb\source\repos\TaskKiller\obj\Debug\TaskKiller.csproj.CoreCompileInputs.cache
+C:\Users\loneb\source\repos\TaskKiller\obj\Debug\TaskKiller.exe
+C:\Users\loneb\source\repos\TaskKiller\obj\Debug\TaskKiller.pdb

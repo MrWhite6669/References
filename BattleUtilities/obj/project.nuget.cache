@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hy6N59hOS4jub3sT0UgsKfI33UvAQqPp3f4OcYNiPXHAU5Ul1ZUvestqO2ArmHM3SGx0vc4UheULZhHXd4J4Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loneb\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BattleUtilities\\BattleUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loneb\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
